@@ -23,7 +23,7 @@ h1{
 span{
     color: orange;
 }
-p{
+.first-section p{
     margin-bottom: 60px;
     padding-right: 160px;
 }
@@ -36,6 +36,7 @@ p{
     padding: 15px 34px;
     border-radius: 23px;
     box-shadow: 10px 10px 40px;
+    font-weight: 800;
 }
 .about-section{
     display: flex;
@@ -48,8 +49,15 @@ p{
 .about-section .right{
     margin-top: 120px;
 }
-.about-section .left{
-
+.about-section p{
+    margin-bottom: 80px;
+}
+.my-recipies h2{
+    font-size: 40px;
+    text-align: center;
+}
+.my-recipies p{
+    text-align: center;
 }
 
 
